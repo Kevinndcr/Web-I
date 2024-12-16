@@ -1,0 +1,5 @@
+Class 4 = Animaciones
+Class 5 = Javascript Fundamentals
+Class 6 = Local Storage
+Mongo DB = Bases de datos Mongo
+API-REST = Algunas APIS de ejemplo que se pueden usar
